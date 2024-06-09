@@ -5,7 +5,7 @@
 - 📫 Reach me through my email, GitHub, or LinkedIn profile.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:"From Brazil to Finland in just two months, I experienced the contrast of tropical warmth to sub-zero temperatures and limited daylight. Having also lived in Spain,
-  Greece, and now the Netherlands, my journey has been a tapestry of diverse cultures and climates, shaping my resilience and perspective."
+  Greece, and now the Netherlands, my journey has been a tapestry of diverse cultures and climates, shaping my resilience and perspective toward to the AI challenges."
 
 
 
