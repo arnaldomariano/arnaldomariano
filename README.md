@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arnaldomariano, a former journalist exploring the AI world.
-- 👀 I’m interested in exploring the possibilities of AI in image processing.
+- 👀 I’m interested in exploring the possibilities of AI in image processing and data science.
 - 🌱 Currently learning how to create new CNNs for image processing to apply in daily life.
-- 💞️ Looking to collaborate on new AI projects involving image processing.
+- 💞️ Looking to collaborate on new AI projects involving image processing and datas.
 - 📫 Reach me through my email, GitHub, or LinkedIn profile.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:"From Brazil to Finland in just two months, I experienced the contrast of tropical warmth to sub-zero temperatures and limited daylight. Having also lived in Spain,
